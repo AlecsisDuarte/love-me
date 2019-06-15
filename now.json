@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "ana-love-me",
+  "builds": [
+  	{ "src": "package.json", "use": "@now/static-build" }
+  ]
+}
